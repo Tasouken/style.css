@@ -1,2 +1,5 @@
 # style.css
-the style.css for yokubo
+free to use with no credits needed or provided.
+
+# license
+public domain
